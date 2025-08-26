@@ -65,7 +65,7 @@ This dashboard combines classical machine learning models (Random Forest, XGBoos
    - `scaler.pkl` (Feature scaler)
    - `model.keras` (LSTM model)
 
-4. **Local deployment:**
+4. **Local deployment**
 ```bash
 streamlit run app.py
 ```
@@ -167,4 +167,5 @@ pyngrok>=5.1.0
 - **Maintenance Scheduling**: Predictive maintenance calendar and work order generation.
 - **Model Optimization**: Hyperparameter tuning for improved performance metrics.
 - **Historical Analysis**: Long-term trend analysis and failure pattern recognition.
+
 
