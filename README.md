@@ -16,7 +16,7 @@ This dashboard combines classical machine learning models (Random Forest, XGBoos
 
 ### 🎛️ Interactive Dashboard
 - **Machine Status Overview** - Color-coded grid showing all machines (🔴 At Risk / 🟢 Normal).
-- **Sensor Trend Analysis** - Interactive plots for key sensors including air temperature, process temperature, rotational speed, torque and tool wear.
+- **Sensor Trend Analysis** - Interactive plots for key sensors including Air Temperature, Process Temperature, Rotational Speed, Torque and Tool Wear.
 - **Model Comparison** - Switch between different ML models to compare predictions.
 - **Customizable Alerts** - Adjustable threshold slider for alert sensitivity.
 
@@ -160,12 +160,9 @@ pyngrok>=5.1.0
 
 ## 🔮 Future Enhancements
 
-- **Real-time Integration**: Connect to live sensor APIs for actual data streaming.
-- **Advanced Visualizations**: Add heatmaps, gauge charts, and KPI dashboards.
-- **Alert System**: Implement email/SMS notifications for critical alerts.
-- **Multi-facility Support**: Extend to monitor multiple industrial sites.
-- **Maintenance Scheduling**: Predictive maintenance calendar and work order generation.
-- **Model Optimization**: Hyperparameter tuning for improved performance metrics.
-- **Historical Analysis**: Long-term trend analysis and failure pattern recognition.
-
-
+- **Real-time Integration** - Connect to live sensor APIs for actual data streaming.
+- **Advanced Visualizations** - Add heatmaps, gauge charts and KPI dashboards.
+- **Alert System** - Implement email/SMS notifications for critical alerts.
+- **Multi-facility Support** - Extend to monitor multiple industrial sites.
+- **Maintenance Scheduling** - Predictive maintenance calendar and work order generation.
+- **Model Optimization** - Hyperparameter tuning for improved performance metrics.
