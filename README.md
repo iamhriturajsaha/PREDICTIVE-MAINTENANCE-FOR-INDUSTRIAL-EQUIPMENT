@@ -37,7 +37,7 @@ This dashboard combines classical machine learning models (Random Forest, XGBoos
   <img src="Streamlit Images/7.png" alt="7" width="1000"/><br>
   <img src="Streamlit Images/8.png" alt="8" width="1000"/><br>
   <img src="Streamlit Images/9.png" alt="9" width="1000"/><br>
-  <img src="Streamlit Images/19.png" alt="10" width="1000"/>
+  <img src="Streamlit Images/10.png" alt="10" width="1000"/>
 </p>
 
 ## 🚀 Quick Start
@@ -167,3 +167,4 @@ pyngrok>=5.1.0
 - **Maintenance Scheduling**: Predictive maintenance calendar and work order generation.
 - **Model Optimization**: Hyperparameter tuning for improved performance metrics.
 - **Historical Analysis**: Long-term trend analysis and failure pattern recognition.
+
