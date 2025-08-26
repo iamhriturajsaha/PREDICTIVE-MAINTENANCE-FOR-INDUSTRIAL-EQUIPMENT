@@ -1,4 +1,4 @@
-# 🛠️ Predictive Maintenance for Industrial Equipment
+# 🛠️Predictive Maintenance for Industrial Equipment
 
 An interactive, real-time monitoring system for industrial facilities to monitor equipment health, forecast potential failures and minimize downtime using advanced machine learning models.
 
@@ -79,7 +79,7 @@ streamlit run app.py
 ## 🔧 Technical Details
 
 ### Classical ML Models
-- **Algorithms** - Random Forest, XGBoost, LightGBM, SVM
+- **Algorithms** - Random Forest, XGBoost, LightGBM, SVM.
 - **Features** - Air Temperature, Process Temperature, Rotational Speed, Torque, Tool Wear.
 - **Optimization** - Balanced class weights to handle data imbalance.
 - **Output** - Binary classification with failure probability scores.
@@ -101,6 +101,31 @@ streamlit run app.py
 | Random Forest | 0.756 | 0.143 | 0.412 | 0.211 | 0.684 |
 | XGBoost | 0.742 | 0.098 | 0.498 | 0.164 | 0.671 |
 
+### Analysis
+
+<table>
+  <tr>
+    <td align="center"><img src="Visualizations/1.png" width="500"></td>
+    <td align="center"><img src="Visualizations/2.png" width="500"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Visualizations/3.png" width="500"></td>
+    <td align="center"><img src="Visualizations/4.png" width="500"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Visualizations/5.png" width="500"></td>
+    <td align="center"><img src="Visualizations/6.png" width="500"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Visualizations/7.png" width="500"></td>
+    <td align="center"><img src="Visualizations/8.png" width="500"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Visualizations/9.png" width="500"></td>
+    <td align="center"><img src="Visualizations/10.png" width="500"></td>
+  </tr>
+</table>
+
 ## 📋 Dependencies
 
 ```txt
@@ -119,10 +144,10 @@ pyngrok>=5.1.0
 
 ## 🔮 Future Enhancements
 
-- **Real-time Integration**: Connect to live sensor APIs for actual data streaming
-- **Advanced Visualizations**: Add heatmaps, gauge charts, and KPI dashboards
-- **Alert System**: Implement email/SMS notifications for critical alerts
-- **Multi-facility Support**: Extend to monitor multiple industrial sites
-- **Maintenance Scheduling**: Predictive maintenance calendar and work order generation
-- **Model Optimization**: Hyperparameter tuning for improved performance metrics
-- **Historical Analysis**: Long-term trend analysis and failure pattern recognition
+- **Real-time Integration**: Connect to live sensor APIs for actual data streaming.
+- **Advanced Visualizations**: Add heatmaps, gauge charts, and KPI dashboards.
+- **Alert System**: Implement email/SMS notifications for critical alerts.
+- **Multi-facility Support**: Extend to monitor multiple industrial sites.
+- **Maintenance Scheduling**: Predictive maintenance calendar and work order generation.
+- **Model Optimization**: Hyperparameter tuning for improved performance metrics.
+- **Historical Analysis**: Long-term trend analysis and failure pattern recognition.
