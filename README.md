@@ -25,6 +25,21 @@ This dashboard combines classical machine learning models (Random Forest, XGBoos
 - **Deep Learning** - LSTM neural network for temporal pattern recognition.
 - **Class Imbalance Handling** - Weighted loss functions and balanced training techniques.
 
+### 💫 Quick Glance 
+
+<p align="center">
+  <img src="Streamlit Images/1.png" alt="1" width="1000"/><br>
+  <img src="Streamlit Images/2.png" alt="2" width="1000"/><br>
+  <img src="Streamlit Images/3.png" alt="3" width="1000"/><br>
+  <img src="Streamlit Images/4.png" alt="4" width="1000"/><br>
+  <img src="Streamlit Images/5.png" alt="5" width="1000"/><br>
+  <img src="Streamlit Images/6.png" alt="6" width="1000"/><br>
+  <img src="Streamlit Images/7.png" alt="7" width="1000"/><br>
+  <img src="Streamlit Images/8.png" alt="8" width="1000"/><br>
+  <img src="Streamlit Images/9.png" alt="9" width="1000"/><br>
+  <img src="Streamlit Images/19.png" alt="10" width="1000"/>
+</p>
+
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -44,13 +59,11 @@ This dashboard combines classical machine learning models (Random Forest, XGBoos
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
-
+   
 3. **Verify model files**
    - `models.pkl` (Classical ML models)
    - `scaler.pkl` (Feature scaler)
    - `model.keras` (LSTM model)
-
-
 
 4. **Local deployment:**
 ```bash
@@ -154,4 +167,3 @@ pyngrok>=5.1.0
 - **Maintenance Scheduling**: Predictive maintenance calendar and work order generation.
 - **Model Optimization**: Hyperparameter tuning for improved performance metrics.
 - **Historical Analysis**: Long-term trend analysis and failure pattern recognition.
-
