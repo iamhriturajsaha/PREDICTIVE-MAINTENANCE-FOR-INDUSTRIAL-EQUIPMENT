@@ -125,6 +125,9 @@ streamlit run app.py
     <td align="center"><img src="Visualizations/10.png" width="500"></td>
   </tr>
 </table>
+<p align="center">
+  <img src="Visualizations/11.png" alt="1" style="width:100%; max-width:500px; height:auto;"/>
+</p>
 
 ## 📋 Dependencies
 
@@ -151,3 +154,4 @@ pyngrok>=5.1.0
 - **Maintenance Scheduling**: Predictive maintenance calendar and work order generation.
 - **Model Optimization**: Hyperparameter tuning for improved performance metrics.
 - **Historical Analysis**: Long-term trend analysis and failure pattern recognition.
+
