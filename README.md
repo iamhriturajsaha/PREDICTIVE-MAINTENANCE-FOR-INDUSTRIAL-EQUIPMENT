@@ -166,3 +166,4 @@ pyngrok>=5.1.0
 - **Multi-facility Support** - Extend to monitor multiple industrial sites.
 - **Maintenance Scheduling** - Predictive maintenance calendar and work order generation.
 - **Model Optimization** - Hyperparameter tuning for improved performance metrics.
+
